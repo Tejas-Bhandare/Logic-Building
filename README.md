@@ -38,7 +38,7 @@ The repository is organized into folders based on programming languages. Each fo
 3.  **String Manipulation**:  
    Logical problems involving string operations like reversing, substring search, palindrome checks, and formatting.
 
-4  **Bit Manipulation**:  
+4.  **Bit Manipulation**:  
    Problems and techniques involving bitwise operations like AND, OR, XOR, shifting, and checking specific bits.
 
 5. **Pattern-Printing**:  
